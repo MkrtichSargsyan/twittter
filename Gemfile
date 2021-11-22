@@ -5,6 +5,7 @@ ruby '3.0.2'
 
 gem 'bulma-rails', '~> 0.9.2'
 gem 'devise', '~> 4.8'
+gem 'font-awesome-rails'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'simple_form', '~> 5.1'
 
